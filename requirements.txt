@@ -3,3 +3,5 @@ counterfit-connection
 counterfit-shims-grove
 
 counterfit-shims-picamera
+
+azure-cognitiveservices-vision-customvision
