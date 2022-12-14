@@ -2,3 +2,4 @@ CounterFit
 counterfit-connection
 counterfit-shims-grove
 
+counterfit-shims-picamera
